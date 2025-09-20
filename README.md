@@ -13,9 +13,11 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
-## Program:
+## Program:<img width="807" height="404" alt="{8D0A517B-809D-4ABC-B5F4-9905586C6166}" src="https://github.com/user-attachments/assets/775e545b-d234-45af-b64a-0330f12b97b2" />
 
-## Output:
+
+## Output:<img width="888" height="179" alt="image" src="https://github.com/user-attachments/assets/7ac1636a-9d1b-44fe-9d94-9dde5a559803" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
